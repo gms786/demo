@@ -1,6 +1,6 @@
 demo
 
-#
+# Basic Git Command
 git init
 
 git clone [url]
